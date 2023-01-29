@@ -13,4 +13,6 @@ https://www.kaggle.com/datasets/kmader/rsna-bone-age
 # To install the requirements
 pip install -r requirements.txt
 # Results
-https://user-images.githubusercontent.com/123302441/215314126-c5303c51-4450-4cc3-b619-cb538b97a6d3.png
+![download](https://user-images.githubusercontent.com/123302441/215314475-9523a55b-2fd9-409f-af31-ef0625bcd694.png)
+
+
